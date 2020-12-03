@@ -1,7 +1,7 @@
 class Translation(object):
-    START_TEXT = """ <b> Hi {} ,Hi I Am A Rename/Convert 2 Video Bot With Custom Thumbnail Support😍️</b> \n
+    START_TEXT = """ <b> Hi {} , Hi I Am A Rename/Convert 2 Video Bot With Custom Thumbnail Support😍️</b> \n
 
-<b>Bot Maintained By: @AYushBots 😎️</b> \n
+<b>Bot Maintained By: @AyushBots 😎️</b> \n
 <b>Do /help for more...</b> \n
 """
 
@@ -33,5 +33,5 @@ class Translation(object):
 1.🔹 <b>Send me any Telegram File.</b> \n
 2.🔹 <b>Reply to that message with /rename New file name.extnsion</b> \n
 3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
-4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With ❤️ By: @AyushBots/b>"""
+4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With ❤️ By: @AyushBots</b>"""
 
